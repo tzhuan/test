@@ -1,2 +1,6 @@
 First file.
+<<<<<<< HEAD
 Seconds line.
+=======
+Second.
+>>>>>>> test-branch2
